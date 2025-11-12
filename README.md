@@ -7,7 +7,7 @@ Advanced aim assistance and player visualization system for enhanced gameplay.
 Copy and paste this code into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/AimbotESP/refs/heads/main/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/heads/main/source"))()
 ```
 ## Features
 - Aimbot System:
