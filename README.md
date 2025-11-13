@@ -20,7 +20,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
 - ESP System:
   - Player box ESP
   - Directional line ESP
-  - Health display
+  - Info ESP
   - Team color coding
   - Rainbow ESP mode
   - Behind-player warning
