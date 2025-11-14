@@ -17,6 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
   - Multiple aim parts (Head/HumanoidRootPart)
   - Team and wall detection filters
   - Customizable smoothness
+  - Auto turn behind
 - ESP System:
   - Player box ESP
   - Directional line ESP
