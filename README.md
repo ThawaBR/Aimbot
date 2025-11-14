@@ -43,8 +43,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
   - Mobile-friendly interface
 - Settings Management:
   - Auto-save configurations
-  - Profile management
-  - Reset to defaults
 
 ## Status
 - Version: 1.5.0
