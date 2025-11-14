@@ -47,7 +47,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
   - Reset to defaults
 
 ## Status
-- Version: 1.4.5
+- Version: 1.5.0
 
 ## Developers
 - Creator: ThawaBR
