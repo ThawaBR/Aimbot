@@ -40,7 +40,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
 - Keybind System:
   - Customizable hotkeys
   - Toggle aimbot/ESP quickly
-  - Mobile-friendly interface
 - Settings Management:
   - Auto-save configurations
 
