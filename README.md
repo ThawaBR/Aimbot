@@ -25,8 +25,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
   - Team color coding
   - Rainbow ESP mode
   - Behind-player warning
-- Player List System
+- Player List System:
   - Individual player selection for Aimbot and ESP
+- Team List System:
+  - Individual team selection for Aimbot and ESP
   - Separate tabs for Aimbot and ESP whitelists
   - Auto-whitelist new players
   - New joiners are automatically selected
