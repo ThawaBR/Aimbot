@@ -29,11 +29,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
   - Individual player selection for Aimbot and ESP
 - Team List System:
   - Individual team selection for Aimbot and ESP
-  - Separate tabs for Aimbot and ESP whitelists
-  - Auto-whitelist new players
-  - New joiners are automatically selected
-  - Select All/Deselect All buttons for quick management
-  - Real-time player updates
 - Visual Customization:
   - FOV circle visibility
   - Color customization
@@ -46,7 +41,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Aimbot/refs/h
   - Auto-save configurations
 
 ## Status
-- Version: 1.5.1
+- Version: 1.6.0
 
 ## Developers
 - Creator: ThawaBR
